@@ -1,0 +1,15 @@
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\MethodLibrary.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+T:\TranMinhTien\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
